@@ -1,5 +1,6 @@
 This repo has my solutions to the Pattern recognintion course at the Faculty of Engineering Alexandria University.
 The course had 7 homework problem sets and 4 assignments.
+The course [website](https://sites.google.com/view/ssp-pr-torki/home) has more information about the assigmnets and homework problems. 
 ## Home work Problems
 ### PCA 
 - Implementing the principal component analysis algorithm.
@@ -56,7 +57,7 @@ Performing sentiment analysis on the IMDB movie reviews [dataset]()
 
 
 ### [Image Segmentation](https://github.com/alyswidan/Image_Segmentation)
-Performing image segmentation on the Berkley Segmentation [dataset]()
+Performing image segmentation on the Berkley Segmentation [dataset](https://sites.google.com/view/ssp-pr-torki/home)
 - Tried kMeans with different values of k.
 - Tried normalized cut spectral clustering using a k-nearest neighbours affinity matrices.
 - Evaluated a compared results using conditional entropy and F-measure.
