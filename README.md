@@ -59,3 +59,4 @@ Performing sentiment analysis on the IMDB movie reviews [dataset]()
 Performing image segmentation on the Berkley Segmentation [dataset]()
 - Tried kMeans with different values of k.
 - Tried normalized cut spectral clustering using a k-nearest neighbours affinity matrices.
+- Evaluated a compared results using conditional entropy and F-measure.
