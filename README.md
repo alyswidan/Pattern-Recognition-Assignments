@@ -44,7 +44,7 @@ description below.
 - Using EigenFaces and FisherFaces to recognise faces in the [orl faces](www.cl.cam.ac.uk/Research/DTG/attarchive/pub/data/att_faces.tar.Z) data set.
 
 ### [IMDB movie reviews sentiment analysis](https://github.com/alyswidan/imdb-sentiment-analysis)
-Performing sentiment analysis on the IMDB movie reviews [dataset]()
+Performing sentiment analysis on the IMDB movie reviews [dataset](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
 - Used NLTK to preprocess the reviews.
 - Compared different vectorization techniques
     * word2vec using gensim
@@ -53,8 +53,10 @@ Performing sentiment analysis on the IMDB movie reviews [dataset]()
 - Compared different traditional non deeplearning classifires.
 - Obtained an accuracy of 92.8% using TF-IDF with a logistic regression classifier.
 
-### [Modulation Recognition]()
-
+### [Modulation Recognition](https://github.com/alyswidan/ModulationRecognition)
+Performing a classification task on a dataset of modulated radio signals.
+- Used and compared different neural network architectures.
+- Compared accuracies and confusion matrices produced by each of the different methods.
 
 ### [Image Segmentation](https://github.com/alyswidan/Image_Segmentation)
 Performing image segmentation on the Berkley Segmentation [dataset](https://sites.google.com/view/ssp-pr-torki/home)
